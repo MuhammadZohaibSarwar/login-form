@@ -1,0 +1,127 @@
+header{
+	/*background-color: #f8db59;*/
+	background-image: url('../imgs/header-bg.png');
+	height: 360px;
+	color: #fff;
+	padding-top: 80px;
+}
+.top h1{
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 50px;
+}
+.main{
+	background-color: #f4f4f4;
+}
+.navbar a{
+	color: #3a4342;
+	font-weight: bold;
+}
+.navbar{
+	width:60%;
+	margin: 0 auto;
+}
+.myheading h2{
+	padding-top: 50px;
+	display: block;
+	/*border-bottom: 2px solid #21a957;*/
+	text-align: center;
+}
+.headingborder{
+	width: 30%;
+	color: #21a957;
+	background-color: #21a957;
+}
+
+.icondiv{
+	background-color: #21a957;
+	border: 1px solid #21a957;
+	width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    color: white;
+    display: inline-table;
+   /* text-align: center;*/
+    font-size: 80px;
+    vertical-align: middle;
+    /*display: table-cell;*/
+    float: none;
+    padding-top: 10%;
+}
+.gallery
+{
+	color: #f4fbf3;
+	background-color: #21a957;
+}
+.navbargallery
+{
+	width:90%;
+	margin: 0px auto;
+}	
+.navbargallery a
+{
+	color: #c9ffe6;
+	font-weight: bold;
+}
+.navbargallery a:hover
+{
+	color: #000;
+	border-radius: 10px;
+}
+.img{
+    vertical-align: initial;
+    height: 189px;
+    width: 285px;
+	
+}
+.imgdiv{
+    padding-right: 0px;
+    padding-left: 0px;
+    width: initial;
+}
+.intro{
+	background-color: #f4d74d;
+	padding: 10px;
+}
+.glyphiconseeting{
+	font-size: 50px;
+	color: #ffffff;
+	padding-top: 40px;
+}
+.whitebox
+{
+	height: 350px;
+    width: 260px;
+    border: 2px #fff solid;
+    background-color: #fff;
+    padding: 10px;
+    margin-left: 202px;
+    margin-right: -186px;
+}
+.iconbg{
+	height: 150px;
+	width: 150px;
+	background-color: #ccc;
+	border-radius: 50%;
+	text-align: center;
+	margin-left: 46px;
+}
+.footer
+{
+	background-color: #f4d74d;
+}
+.social-links{
+	/*background-color: #333;*/
+    /*border-radius: 30px;*/
+    color: #fff;
+    /*display: inline-block;*/
+    height: 30px;
+    /*line-height: 30px;*/
+    /*margin: auto 3px;*/
+    /*width: 30px;*/
+    font-size: 15px;
+    /*text-align: center;*/
+}
+.fontawesome{
+	margin-right:  20px;
+}

@@ -1,0 +1,32 @@
+.container
+{
+	border: 2px solid #a3a3a3;
+	border-image-slice: red;
+	padding: 3px;
+	width: 665px;
+	height: 551px;
+	margin-top: 30px;
+	color: #333333;
+	font-size: 16px;
+	background-color: #bdb0a0;
+}
+header
+{
+	text-align: left;
+}
+.textbox
+{
+	border-radius: 8px;
+	background: linear-gradient(#ffd8ec, white);
+	height: 36px;
+	width: 365px;
+}
+.savebutton
+{
+	background-color: #d9534f;
+	color: white;
+	border-radius: 8px;
+	width: 350px;
+	height: 50px;
+	text-align: center;
+}
